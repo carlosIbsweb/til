@@ -22,6 +22,13 @@ Foco em resolver problemas reais, com comandos prontos pra usar.
 | [Expandir volume EBS](aws/expandir-volume-ebs.md) | Aumentar partição e filesystem após redimensionar volume EBS no Linux |
 
 ---
+### ☁️ Migração
+
+| Guia | Descrição |
+|------|-----------|
+| [Migração entre Servidores Linux](migracao/migracao-entre-servidores-linux.md) | Como transferir arquivos entre servidores usando rsync e SSH, incluindo configuração de chaves, Docker e AWS. |
+
+---
 
 ### 🐧 Linux
 
